@@ -1,7 +1,7 @@
 const mongoose=require('mongoose')
 
 mongoose.connect(
-    "mongodb+srv://ningaraddi225_db_user:KaAjaCmMitjmUbX8@cluster0.4ccbqys.mongodb.net/"
+    "mongo url"
 )
 .
 then(()=>console.log("Database connected successfully"))
